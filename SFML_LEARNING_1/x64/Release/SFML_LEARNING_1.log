@@ -1,0 +1,44 @@
+﻿  Bullet.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  FollowPointer.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  main.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\ConvexHull.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\ConvexHull.h(76): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(41): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+main.cpp(42): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  GameObject.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Asteroid.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  DeltaTime.cpp
+  ObjectSystem.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  IDDistributor.cpp
+  CollisionDetection.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+CollisionDetection.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+CollisionDetection.cpp(12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ship.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+Ship.cpp(110): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Wall.cpp
+c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\freakingbarbarians\documents\visual studio 2015\projects\sfml_learning_1\sfml_learning_1\CollisionData.h(18): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Window.cpp
+  Generating code
+  All 783 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFML_LEARNING_1.vcxproj -> C:\Users\FreakingBarbarians\Documents\Visual Studio 2015\Projects\SFML_LEARNING_1\x64\Release\SFML_LEARNING_1.exe
